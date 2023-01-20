@@ -1,0 +1,245 @@
+body{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    width:1000px;
+    height: 1500px;
+    font-family: 'Inter', sans-serif;
+    
+    
+    }
+    
+    .main-wrapper{
+    background-color: white;
+    width:1000px;
+    height: 1500px;
+    margin-top: 0px;
+    padding-top: 20px;
+    }
+    
+    .topleft{
+    width: 460px;
+    height: 600px;
+    float: left;
+    color: rgb(18, 18, 97);
+    padding-left:40px;
+    }
+    
+    .topbar{
+    
+    color: rgb(18, 18, 97);
+    
+    
+    }
+    
+    .menu{
+        word-spacing:30px;
+        margin-bottom: 60px;
+        color: rgb(18, 18, 97);
+    }
+    .menu a{
+    text-decoration: none;
+    
+    }
+    
+    h1{
+    font-size: 30px;
+    font-family:'poppins';
+    
+    }
+    
+    .mybutton{
+        border: none;
+        height: 45px;
+        width:150px;
+        color: white;
+        background-color:rgb(18, 18, 97);
+        border-radius: 5px;
+        margin-right:40px;
+    }
+    
+    
+    .view{
+    text-decoration: none;
+    }
+    
+    .svg{
+    width: 4%;
+    margin-right: 10px;
+    }
+      
+    .topright{
+    width:500px;
+    height: 600px;
+    background-color: rgb(0, 238, 255);
+    float: left;
+    } 
+      
+    .topright img {
+     height: 410px;
+     width:420px;
+     margin-left: 40px;
+    } 
+      
+    .topright button{
+    margin-left: 180px;
+    margin-bottom: 30px;
+    } 
+    
+    .clear{
+        clear: both;
+    }
+      
+    .midleft{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    height: 200px;
+    width:500px;
+    float: left;
+    color: rgb(18, 18, 97);
+    }
+    
+    h2{
+        margin-left: 40px;
+    font-size: 20px;
+    font-family:'poppins';
+    
+    
+    }
+    .midleft ul{
+        display: flex;
+    list-style-type: none;
+    }
+    .png{
+        width:80%;
+        
+    }
+    
+    .midright{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    color: rgb(18, 18, 97);
+    height: 200px;
+    width:500px;
+    float: left;
+    }
+    
+    .section3{
+    color: rgb(50, 50, 148);
+    height:320px;
+    width:1000px;
+    background-color: rgb(192, 248, 248);
+    }
+    
+    .section3left{
+    height:250px;
+    width:500px;
+    float: left;
+    
+    margin-left:40px;
+    }
+    
+    section3right{
+    
+    height: 250px;
+    width:500px;
+    float: left;
+    }
+    
+    .atext{
+        color:rgb(121, 121, 255) ;
+    }
+    
+    
+    .footerleft{
+    height:250px;
+    width:500px;
+    float: left;
+    
+    
+    }
+    
+    .footerleft img{
+    margin-left: 40px;
+    }
+    
+    .footerleft ul{
+    list-style-type: none;
+    
+    }
+    
+    .foothead{
+    margin-left: 40px;
+    }
+    .foothead a{
+    text-decoration: none;
+    color:rgb(0, 0, 0);
+    font-weight:bold;
+    }
+    
+    .foot1{
+    float:left ;
+    margin-right: 40px;
+    }
+    
+    .foot1 ul a{
+    text-decoration: none;
+    color: rgb(145, 145, 223);
+    font-size: small;
+    }
+    
+    
+    .foot2{
+    float:left ;
+    margin-right: 40px;
+    }
+    .foot2 ul a{
+    text-decoration: none;
+    color: rgb(145, 145, 223);
+    font-size: small;
+    }
+    
+    .foot3{
+    float:left ;
+    }
+    .foot3 ul a{
+    text-decoration: none;
+    color: rgb(145, 145, 223);
+    font-size: small;
+    }
+    
+    .footerright{
+    padding-top: 50px;
+    padding-left: 150px;
+    width: 350px;
+    height: 200px;
+    float: left;
+    
+    }
+    
+    .emailbox{
+        border: 1px solid grey ;
+        height: 50px;
+        width:330px;
+        background-color:rgb(255, 255, 255);
+        border-radius: 5px;
+        padding-top: 5PX;
+        
+    }
+    .emailbox input{
+        height: 40px;
+        float: left;
+        border: none;
+        text-align: center;
+    }
+    
+    
+    .emailbox button{
+        margin-top:15px;
+        margin: 0;
+        float:left;
+    }
+    
+    
+    
+    
